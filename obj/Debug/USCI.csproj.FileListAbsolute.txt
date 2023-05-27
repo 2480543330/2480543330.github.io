@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\USCI\USCI\bin\USCI.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\USCI\USCI\bin\USCI.dll
+c:\users\admin\documents\visual studio 2015\Projects\USCI\USCI\bin\USCI.pdb
+c:\users\admin\documents\visual studio 2015\Projects\USCI\USCI\obj\Debug\USCI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\USCI\USCI\obj\Debug\USCI.dll
+c:\users\admin\documents\visual studio 2015\Projects\USCI\USCI\obj\Debug\USCI.pdb
